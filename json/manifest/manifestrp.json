@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "I love 69",
+        "name": "69 Bus pack",
+        "uuid": "c27b1080-07b2-42e1-99ff-889bf918413c",
+        "version": [
+            6,
+            9,
+            4
+        ]
+    },
+    "modules": [
+        {
+            "description": "I love 69",
+            "type": "resources",
+            "uuid": "ae5a0df0-efbd-49f4-a45c-9528ae65d7bc",
+            "version": [
+                6,
+                9,
+                4
+            ]
+        }
+    ]
+}

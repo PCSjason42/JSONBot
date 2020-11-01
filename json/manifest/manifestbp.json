@@ -1,0 +1,25 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Buses are pog",
+        "name": "Double decker bus pack",
+        "uuid": "60cb5de4-358c-496e-a432-6ebccd105599",
+        "version": [
+            6,
+            9,
+            6
+        ]
+    },
+    "modules": [
+        {
+            "description": "Buses are pog",
+            "type": "data",
+            "uuid": "eb86c43b-d63f-4eb1-9f52-54488ee32d98",
+            "version": [
+                6,
+                9,
+                6
+            ]
+        }
+    ]
+}
