@@ -51,7 +51,5 @@ class Json(commands.Cog):
         except (IndexError, TypeError):
             await ctx.send("Invalid argument!")
 
-    @commands.command(help=)
-
 def setup(bot):
     bot.add_cog(Json(bot))
